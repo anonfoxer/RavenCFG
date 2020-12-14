@@ -13,7 +13,7 @@ Raven wont bring the community back to life, not by any stretch of the imaginati
 
 # Why not make an actual *mod menu?*
 Well, 2 reasons.
-1. Modding in WaW is again, long since fallen quiet. Most tools don't exist to make mods anymore, and most people don't play the game.
+1. Modding in WaW is, again, long since fallen quiet. Most tools don't exist to make mods anymore, and most people don't play the game.
 2. While the modding scene is "dying" still in BO2 among other games, tools for those games still do exist. Once I gain a bit more programming expirience (and can be assed to finally jailbreak my PS3), RavenCFW will be made for BO2.
 
 # Isn't modding in Call of Duty dead?
