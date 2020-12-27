@@ -10,6 +10,7 @@ The goal for Raven is to push the capabilities of CFG "programming" to its limit
 Well, the CFG modding community has long since fallen quiet. As newer CoD games came out, CFG either became a difficult thing to accomplish (try finding a clean version of Red-Eye's MW2 Game Save Editor.), or (with later games) became something that just couldn't be done.
 Long gone are the days of 2009-2012, where random 15 year olds would make competing CFG mods in games like WaW and MW, battling it out to see who can steal more code from who, before eventually getting hit with a set of bad DVARs from someone with an actual mod menu, or getting booted offline.
 Raven wont bring the community back to life, not by any stretch of the imagination. But it may be a nice closing statement, and a proud, final mark of the CFG community.
+For this reason, Raven is going to be actively updated and supported for a while to come, and is the only current, actively developed CFG menu on the internet in 2020.
 
 # Why not make an actual *mod menu?*
 Well, 2 reasons.
